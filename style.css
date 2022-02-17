@@ -1,0 +1,41 @@
+body{
+    background-color:#EAF6F6;
+    margin: 20px;
+  }
+  h1{
+      text-align: center;
+      color:#00af91;
+      font-size: 3rem;
+  }
+  h2{
+      text-align: center;
+      color:black;
+      background-color: rgb(192,192,192);
+      border-width: 15px;
+  }
+  img{
+      text-align: center;
+      width: 200px;
+      height: 240px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 50%;
+      
+  }
+ /* hr{
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+  }
+  */
+  .Contact{
+      
+      font-size: 2rem;
+  }
+  a{
+      text-decoration: none;
+      
+      }
